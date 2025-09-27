@@ -1,6 +1,6 @@
 # Dydeblur
 
-This is the repository that contains source code for the [Dydeblur website](https://dydeblur.github.io).
+The website template is borrowed from [Nerfies](https://Nerfies.github.io).
 
 If you find Dydeblur useful for your work please cite:
 ```
